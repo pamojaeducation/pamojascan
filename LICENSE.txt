@@ -1,0 +1,12 @@
+Copyright (c) 2026 Pamoja Education. All rights reserved.
+
+This software is proprietary and is provided for use through pamojascan.app.
+No permission is granted to copy, modify, redistribute, sublicense or create
+derivative works of this software without prior written permission from
+Pamoja Education.
+
+The Pamoja Education name, logo, mark and other brand assets are trademarks of
+Pamoja Education and are not licensed for any use.
+
+This software includes third party components that are licensed separately.
+See THIRD_PARTY_NOTICES.txt.
